@@ -1,0 +1,4 @@
+packages/*/node_modules/*
+.idea
+packages/*/package-lock.json
+packages/*/dist
